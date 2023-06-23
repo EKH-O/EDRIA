@@ -237,86 +237,51 @@ Lorsque les 4 personnes ont activés les 4 cotés de la sculpture, une animation
 
 * Poteaux
     * Pont d'éclairage (cr34te)
-        * 1' x 1' x 8' (triangle)
-        * 2' x 2' x 8' (carré)
+        * 0,3M x 0,3M 2M
+        * 0,3M x 0,3M x 2,5M
     
     * specifique
-        * poteau 1
-            * speaker
-            * string festoon 15' (cr34te)
-            * fausse plante
-        * poteau 2
-            * speaker
-            * string festoon 15' (cr34te)
-            * fausse plante
-            * colorado
-        * poteau 3
-            * speaker
-            * string festoon 15' (cr34te)
-            * fausse plante
-        * poteau 4
-            * speaker
-            * string festoon 15' (cr34te)
-            * fausse plante
-            * colorado
-        * poteau 5
-            * speaker
-            * string festoon 15' (cr34te)
-            * fausse plante
-        * poteau 6
-            * speaker
-            * string festoon 15' (cr34te)
-            * fausse plante
-            * colorado
-        * poteau 7
-            * speaker
-            * string festoon 15' (cr34te)
-            * fausse plante
-        * poteau 8
-            * speaker
-            * string festoon 15' (cr34te)
-            * fausse plante
-            * colorado
+        * poteau ext.
+            * speaker (1x)
+            * string festoon (1x) (cr34te)
+            * fausses plantes
         * poteau M
-            * speaker
-            * arduino (2x) [lien](https://shop.m5stack.com/products/pir-module)
-            * LED ALITOVE DC 12V WS2811 12mm
-            * Lumières adressables (x4)
-            * DMX Dot 5W (cr34te)
-            * DMX DOT STRING festoon ( (cr34te)
-            * DMX DOT clean (64) (cr34te)
+            * speaker (4x)
+            * arduino (4x) [lien](https://shop.m5stack.com/products/pir-module)
+            * Bande LED (cr34te)
+            * DMX DOT STRING festoon (2x) (cr34te) 
             * Boule Lumineuse 200mm (cr34te)
             * Tubes Opal 0.5M (cr34te)
             * Tubes Opal 1M (cr34te)
-            * COLORado 2 Solo (cr34te)
-            * fausse plante
+            * fausses plantes
 
 * Cabanon central
-    * mac mini
     * Carte de son 
     * Amplificateurs
-    * V-Show Artnet RDM DMX Controller
+    * V-Show Artnet RDM DMX Controller (cr34te)
+    * raspberri-Pi
+    * modem
+    * switch POE
+    * splitter dmx
 ---
 
 ## Équipements requis (Liste officielle matériel)
 
 ### Cr34te
 * __Lumières__
-    * (~8x25' 1x 50') DMX DOT STRING (festoon) (cr34te)
-    * ( 64x ) DMX DOT CLEAR (cr34te)
-    * ( 20x-25x ) Boule Lumineuse 200mm cr34te)
-    * ( x1 ) Boule Lumineuse 36' cr34te)
-    * ( 4x ) Tubes Opal 0.5M (cr34te)
-    * ( 2x ) Tubes Opal 1M (cr34te)
-    * ( x8 ) COLORado 2 Solo (cr34te)
+    * ( 10x ) DMX DOT STRING (festoon)
+    * ( 12x ) Boule Lumineuse 200mm
+    * ( 2x ) Tubes Opal 0.5M
+    * ( 1x ) Tubes Opal 1M
+    * ( 1x ) Bande LED
     
 * __Connection / controlleur__
     * ( ~2 ) CL-PBDF (cr34te)
 
 * __Installation__
     * Pond d'éclairage 
-        * ( x8 ) 1' x 1' x 8' (triangle)
-        * ( x1 ) 2' x 2' x 8' (carré)
+        * ( x8 ) 0,3M x 0,3M x 2M
+        * ( x1 ) 0,3M x 0,3M x 2,5M
 
 ---
 ### À acheter 
@@ -338,10 +303,10 @@ Lorsque les 4 personnes ont activés les 4 cotés de la sculpture, une animation
     * Modem LTE (a voir)
 
 * __Ordinateur__
-    * [( x2) MAC Mini](https://www.apple.com/ca/shop/buy-mac/mac-mini)
+    * [( x1) Raspberry Pi](https://www.raspberrypi.com/products/raspberry-pi-400/)
     
 * __Interactivité__
-    * ( x12 ) proximity Sensor (Guillaume) 
+    * ( x4 ) car sensor (Guillaume) 
 
 * __Décoration__
     * Peinture UV
